@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Кекс столичный",
+        "img": "img/keks.webp",
+        "price": 45
+    },
+    {
+        "id": 2,
+        "title": "Багет французский",
+        "img": "img/baget.webp",
+        "price": 115
+    },
+    {
+        "id": 3,
+        "title": "Самса слоёная",
+        "img": "img/samsa.webp",
+        "price": 89
+    },
+    {
+        "id": 4,
+        "title": "Файли домашние",
+        "img": "img/vafli.jpeg",
+        "price": 67
+    },
+    {
+        "id": 5,
+        "title": "Запеканка творожная",
+        "img": "img/zapekanka.jpg",
+        "price": 129
+    }
+]
